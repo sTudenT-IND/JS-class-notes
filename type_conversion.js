@@ -26,4 +26,10 @@ console.log(typeof score2);
  console.log(newval1);
  
  
+ let no = 4
+ let newvall = String(no)
+ console.log(typeof newvall);
+ 
+
+ 
  
