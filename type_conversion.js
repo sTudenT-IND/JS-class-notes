@@ -31,5 +31,6 @@ console.log(typeof score2);
  console.log(typeof newvall);
  
 
+ console.log("2" > 1);
  
  
